@@ -12,6 +12,8 @@ function uniqueValue(value, index, self){
 }
 
 function rand(num){
+	cor = 0;
+	totalTime = 0;
 	list = [];
 	while(list.length < num){
     	var randomnumber = Math.floor(Math.random()*27) ;
