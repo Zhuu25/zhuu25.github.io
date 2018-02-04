@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Dog Quiz</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
+<body>
+	<p id="timer">10</p>
+
+	<h1 class="output" align="center">เกมตอบคำถามสายพันธุ์สุนัข</h1>
+
+	<div class="finish">
+		<h1 class="totalSc" align="center">คะแนนรวม</h1>
+		<h2 class="score" align="center"></h2>
+		<h1 class="totalTi" align="center">เวลาที่ใช้</h1>
+		<h2 class="ti" align="center"></h2>
+		<p align="center" id="playAgain">
+			<button onclick="restart()">เล่นอีกครั้ง</button>
+		</p>
+	</div>
+
+	<p align="center">
+		<img src="https://acimg.auctivacommerce.com/imgdata/0/3/3/5/1/0/webimg/6408453.jpg" id="dog">
+	</p>
+
+	<table class="choices">
+		<tr>
+			<th><button id="ten" onclick="rand(10)">10</button></th>
+			<th><button id="twenty" onclick="rand(20)">20</button></th>
+		</tr>
+	</table>
+
+	<h2 class="quiz" align="center"></h2>
+
+	<p align="center"><button id="0" onclick="check(0)">1</button></p>
+	<br>
+
+	<p align="center"><button id="1" onclick="check(1)">2</button></p>
+	<br>
+	
+	<p align="center"><button id="2" onclick="check(2)">3</button></p>
+	<br>
+	
+	<p align="center"><button id="3" onclick="check(3)">4</button></p>
+	<br><br>
+	
+	<script src="jquery-3.3.1.min.js" charset="utf-8"></script>
+
+	<script>
+		$('.finish').hide();
+		$('#timer').hide();
+		$('.quiz').hide();
+		
+		$('#0').hide();
+		$('#1').hide();
+		$('#2').hide();
+		$('#3').hide();
+	</script>
+
+	<script src="script.js"></script>
+
+</body>
+</html>

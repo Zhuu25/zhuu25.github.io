@@ -1,0 +1,177 @@
+[
+	{
+		"quiz": "https://i.ytimg.com/vi/SfLV8hD7zX4/maxresdefault.jpg",
+		"choice": ["โกลเด้น รีทรีฟเวอร์", "ลาบราดอร์ รีทรีฟเวอร์", 
+			"ปอมเมอเรเนียน", "บูลด็อก"],
+		"ans": "0"
+	},
+
+	{
+		"quiz": "hide",
+		"quiz2": "สุนัขพันธุ์เกรทเดนมีถิ่นกำเนิด มาจากประเทศใด?",
+		"choice": ["ประเทศเยอรมัน", "ประเทศอังกฤษ", "ประเทศฝรั่งเศส", "ประเทศอินเดีย"],
+		"ans": "0"
+	},
+
+	{
+		"quiz": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Dogge_Odin.jpg",
+		"choice": ["เกรย์ฮาวน์", "ไอริช วูล์ฟฮาวน์ด", "อิงลิช มาสทิฟฟ์", "เกรทเดน"],
+		"ans": "3"
+	},
+
+	{
+		"quiz": "hide",
+		"quiz2": "ถิ่นกำเนิดของสุนัขพันธุ์ไทยหลังอานมีถิ่นกำเนิดจากภาคใดในประเทศไทย?",
+		"choice": ["ภาคกลาง", "ภาคเหนือ", "ภาคใต้", "ภาคตะวันออก"],
+		"ans": "3"
+	},
+
+	{
+		"quiz": "https://fac.img.pmdstatic.net/fit/http.3A.2F.2Fwww.2Efemmeactuelle.2Efr.2Fvar.2Ffemmeactuelle.2Fstorage.2Fimages.2Fanimaux.2Fchiens-et-chats-de-race.2Fle-malamute-d-alaska-un-chien-taille-pour-la-montagne-43854.2F14705680-1-fre-FR.2Fle-malamute-d-alaska-un-chien-taille-pour-la-montagne.2Ejpg/750x562/quality/80/crop-from/center/le-malamute-d-alaska-un-chien-taille-pour-la-montagne.jpeg",
+		"choice": ["อลาสกัน มาลามิวท์", "ไซบีเรียน ฮัสกี้", 
+			"กรีนแลนด์", "คานาเดี้ยน เอสกิโม"],
+		"ans": "0"
+	},
+
+	{
+		"quiz": "hide",
+		"quiz2": "แม่สุนัขใช้เวลาตั้งท้องกี่เดือน?",
+		"choice": ["2-3 เดือน", "4-5 เดือน", "6-7 เดือน", "8-9 เดือน"],
+		"ans": "0"
+	},
+
+	{
+		"quiz": "http://cdn.akc.org/akccontentimages/BreedOfficialPortraits/hero/Samoyed.jpg",
+		"choice": ["ไซบีเรียน ฮัสกี้", "ซามอยด์", "บ็อกเซอร์", "โกลเด้น รีทรีฟเวอร์"],
+		"ans": "1"
+	},
+
+	{
+		"quiz": "hide",
+		"quiz2": "สุนัขที่โตเต็มที่จะมีฟันทั้งหมดกี่ซี่?",
+		"choice": ["32 ซี่", "42 ซี่", "45 ซี่", "48 ซี่"],
+		"ans": "1"
+	},
+
+	{
+		"quiz": "https://vetstreet.brightspotcdn.com/dims4/default/aaa98fe/2147483647/thumbnail/645x380/quality/90/?url=https%3A%2F%2Fvetstreet-brightspot.s3.amazonaws.com%2F0c%2F4dc430a80911e0a0d50050568d634f%2Ffile%2FVizsla-3-645mk062911.jpg",
+		"choice": ["บีเกิ้ล", "วิซสลา", "โดเบอร์แมน", "โอลด์ อิงลิช ชีฟด็อก"],
+		"ans": "1"
+	},
+
+	{
+		"quiz": "hide",
+		"quiz2": "สุนัขสายพันธุ์ใดไม่มีเสียงเห่า?",
+		"choice": ["บ็อกเซอร์", "บางแก้ว", "พุดเดิ้ล", "บาเซนจิ"],
+		"ans": "3"
+	},
+
+	{
+		"quiz": "http://upic.me/i/mp/skjfz.jpg",
+		"choice": ["ร็อตไวเลอร์", "บางแก้ว", "ไทยหลังอาน", "โดเบอร์แมน"],
+		"ans": "2"
+	},
+
+	{
+		"quiz": "hide",
+		"quiz2": "สุนัขมีต่อมเหงื่ออยู่บริเวณใด?",
+		"choice": ["อุ้งเท้า", "ลิ้น", "รูขุมขนรอบตัว", "หนวด"],
+		"ans": "0"
+	},
+
+	{
+		"quiz": "http://www.petguide.com/wp-content/uploads/2013/02/bull-terrier.jpg",
+		"choice": ["บอสตัน เทอเรียร์", "แจ็ค รัสเซล เทอเรียร์", "บูล เทอเรียร์", "แรท เทอเรียร์"],
+		"ans": "2"
+	},
+
+	{
+		"quiz": "hide",
+		"quiz2": "อาหารในข้อใดเป็นพิษต่อสุขภาพของสุนัข",
+		"choice": ["ตับ", "กระดูก", "หญ้า", "นมวัว"],
+		"ans": "1"
+	},
+
+	{
+		"quiz": "https://upload.wikimedia.org/wikipedia/commons/a/af/Australian_Silky_Terrier_Alana_Of_Silky%27s_Dream.jpg",
+		"choice": ["เบดลิงตัน เทอเรียร์", "ออสเตรเลียน ซิลกี้ เทอเรียร์", "ไอริช เทอเรียร์", "ชิสุ"],
+		"ans": "1"
+	},
+
+	{
+		"quiz": "hide",
+		"quiz2": "อาหารในข้อใดไม่เป็นพิษต่อสุขภาพของสุนัข",
+		"choice": ["หญ้า", "ไข่ดิบ", "ช็อกโกแลต", "หัวหอม"],
+		"ans": "0"
+	},
+
+	{
+		"quiz": "https://image.dogilike.com/shareimg/contentimg/2013/meaw/Breeds/Basenji/2.jpg",
+		"choice": ["ไซบีเรียน ฮัสกี้", "มอลทีส", "ไทยหลังอาน", "บาเซนจิ"],
+		"ans": "3"
+	},
+
+	{
+		"quiz": "hide",
+		"quiz2": "สุนัขใช้เวลาผลัดเซลล์ผิวประมาณกี่วัน?",
+		"choice": ["10 วัน", "15 วัน", "20 วัน", "25 วัน"],
+		"ans": "2"
+	},
+
+	{
+		"quiz": "http://i.kapook.com/photofolder/box/Maltese_pictures_02.jpg",
+		"choice": ["ชิวาวา", "ปอมเมอเรเนียน", "มอลทีส", "ชิสุ"],
+		"ans": "2"
+	},
+
+	{
+		"quiz": "hide",
+		"quiz2": "สภาพความเป็นกรด-ด่างของผิวหนังสุนัขมีค่าประมาณเท่าไร?",
+		"choice": ["pH 7.5", "pH 6.5", "pH 5.5", "pH 4.5"],
+		"ans": "0"
+	},
+
+	{
+		"quiz": "https://hilight.kapook.com/img_cms2/varity/67639741.jpg",
+		"choice": ["ไอริช วูล์ฟฮาวน์ด", "บอร์ซอย", "อาฟกันฮาวด์", "เกรย์ฮาวน์"],
+		"ans": "2"
+	},
+
+	{
+		"quiz": "hide",
+		"quiz2": "สุนัขพันธุ์บาเซนจิมีถิ่นกำเนิด มาจากประเทศใด?",
+		"choice": ["ประเทศอินเดีย", "ประเทศอียิปต์", "ประเทศเมีนยม่า", "ประเทศญี่ปุ่น"],
+		"ans": "1"
+	},
+
+	{
+		"quiz": "https://img.kapook.com/image/pet/chihuahua.jpg",
+		"choice": ["ชิสุ", "ชิวาวา", "มอลทีส", "บูล เทอเรียร์"],
+		"ans": "1"
+	},
+
+	{
+		"quiz": "hide",
+		"quiz2": "สุนัขที่ตัวเล็กที่สุดในโลก คือสุนัขสายพันธุ์ใด?",
+		"choice": ["ปอมเมอเรเนียน", "พุดเดิ้ล", "ยอร์คเชียร์ เทอร์เรีย", "ชิวาวา"],
+		"ans": "3"
+	},
+
+	{
+		"quiz": "http://thaibigplaza.com/img/a53/fea/a53feaf89bb136d843c3444acaf4cafc_0.jpg",
+		"choice": ["ยอร์กชาร์ย เทอเรียร์", "สแตนดาร์ท ชเนาเซอร์", "ไจแอ้นท์ ชเนาเซอร์", "มินิเอเจอร์ ชเนาเซอร์"],
+		"ans": "3"
+	},
+
+	{
+		"quiz": "https://iheartdogs.com/wp-content/uploads/2017/01/13892265_1621632381500348_819784234887132384_n.jpg",
+		"choice": ["ปอมเมอเรเนียน", "ชิวาวา", "ชิสุ", "มอลทีส"],
+		"ans": "2"
+	},
+
+	{
+		"quiz": "https://img.kapook.com/image/labrador.jpg",
+		"choice": ["ไซบีเรียน ฮัสกี้", "เซนต์เบอนาร์ด", "โกลเด้น รีทรีฟเวอร์", "ลาบราดอร์ รีทรีฟเวอร์"],
+		"ans": "3"
+	}
+]
