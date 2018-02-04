@@ -67,7 +67,7 @@
 	},
 
 	{
-		"quiz": "http://upic.me/i/mp/skjfz.jpg",
+		"quiz": "https://upic.me/i/mp/skjfz.jpg",
 		"choice": ["ร็อตไวเลอร์", "บางแก้ว", "ไทยหลังอาน", "โดเบอร์แมน"],
 		"ans": "2"
 	},
